@@ -4,7 +4,7 @@
 
 My personal config, helpers and general setup for [Counter-Strike: Global Offensive](https://blog.counter-strike.net/).
 
-Work in progress as I’ve only recently rediscovered my passion for CS after a ~12 year absence.
+Work in progress as I’ve only recently rediscovered my passion for CS after a ~12 year absence — I am **anything but a gamer**. It’s a nostalgia thing that sparked my interest. 😊
 
 ### Video Settings 🎬
 
